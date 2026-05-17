@@ -1,29 +1,29 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
-import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const year = new Date().getFullYear()
-    const links = opts?.links ?? []
+  const Footer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+    const links = opts?.links ?? {}
+
     return (
       <footer class={`${displayClass ?? ""}`}>
+        <p>© Alex Lugovskoy</p>
+
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          Materials may be used for non-commercial educational purposes with
+          attribution and a link to the source.
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+
+        <p>Commercial use and AI/dataset use require permission.</p>
+
+        <p>
+  <a href="/license/">License</a> ·{" "}
+  <a href="/contact/">Contact</a>
+</p>
       </footer>
     )
   }
