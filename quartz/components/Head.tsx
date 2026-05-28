@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+      <script src="/static/typo-report.js" defer></script>
       </head>
     )
   }
