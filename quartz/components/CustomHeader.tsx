@@ -5,21 +5,16 @@ export default (() => {
     return (
       <header class="al-site-header">
         <div class="al-logo-wrap">
-          <a href="/" class="al-logo" aria-label="al-chemist.info home">
-            <img src="/static/alchemist-logo.png" alt="al-chemist.info" />
+          <a href="/" class="al-logo" aria-label="The Salon home">
+            The Salon
           </a>
-          <div class="al-tagline">Thoughts about the work and in its vicinity</div>
         </div>
 
         <nav class="al-main-nav" aria-label="Main navigation">
-          <a href="/research/">Research</a>
-          <a href="/publications/">Publications</a>
-          <a href="/teaching/">Teaching</a>
-          <a href="/courses/">Courses</a>
-          <a href="/notes/">Garden</a>
-          <a href="/tools/">Tools</a>
-          <a href="/about/">About</a>
-          <span class="al-lang"><a href="/">EN</a> / <a href="/he/">עברית</a></span>
+          <a href="/">Home</a>
+          <a href="/read/">Read</a>
+          <a href="/questions/">Questions</a>
+		  <a href="/about-the-salon/">About the Salon</a>
         </nav>
       </header>
     )

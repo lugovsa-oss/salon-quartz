@@ -1,44 +1,27 @@
----
-title: Welcome to the personal site of Alex Lugovskoy
-cssclasses:
-  - home-page
----
+The Salon is an independent intellectual gathering place. Essays are published together with responses, objections, and continuing conversations.
 
----
-<section class="al-root-landing">
-
-<div class="al-root-center">
-
-# Alex Lugovskoy
-
-Materials Science · Electrochemistry · Teaching · Notes
-
-<div class="al-root-links">
-
-<a class="al-lang-entry" href="/en/">
-<img class="al-card-illustration" src="/static/left-watermark.png" alt="" />
-<span class="al-lang-title">English</span> &nbsp;
-<span class="al-lang-desc">
-(Research, publications, notes, and academic materials)
-</span>
-</a>
-</br>
-<a class="al-lang-entry" href="/he/"> &nbsp;
-<img class="al-card-illustration" src="/static/right-watermark.png" alt="" />
-<span class="al-lang-title">עברית</span>
-<span class="al-lang-desc">
-(קורסים, חומרי לימוד והערות)
-</span>
-</a>
-
+<div class="salon-question-card">
+  <h2><a href="/read">Read</a></h2>
+  <p class="salon-question-summary">
+Essays and reviews are placed here. Please feel free to read, link and discuss. The main way of discussion is a review/responce to an essay.
+  </p>
 </div>
 
-<div class="al-root-footer">
-
-Ariel University
-
+<div class="salon-question-card">
+  <h2><a href="/participate">Participate</a></h2>
+  <p class="salon-question-summary">
+    How can you take a part in this Salon.
+  </p>
 </div>
 
+<div class="salon-question-card">
+  <h2><a href="/questions">Questions</a></h2>
+  <p class="salon-question-summary">
+    Topics currently open for discussions</p>	
 </div>
 
-</section>
+<div class="salon-question-card">
+  <h2><a href="/about-the-salon">About the Salon</a></h2>
+  <p class="salon-question-summary">
+    Information about the Salon, its Host and so forth. The rules of the game, the Code of Behavior and other boring formalities. </p>	
+</div>
