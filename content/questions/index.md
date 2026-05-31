@@ -10,11 +10,9 @@ Pseudonyms are welcome. Real names are welcome, too. A name is not important. An
   <p class="salon-question-summary">
 Institutions are created to serve a mission. Over time, they often begin to serve themselves.
   </p>
-  <div class="salon-question-links">
-    <span>Essay</span>&nbsp;
-    <span>Response</span>&nbsp;
-    <span>Discussion</span>
-  </div>
+  <a href="/questions/bureaucracy/">Discussion</a>
+  <a href="/read/burocreacy-plus/killing-the-cure/">Killing the Cure</a>
+</div></a>
 </div>
 
 <div class="salon-question-card">
