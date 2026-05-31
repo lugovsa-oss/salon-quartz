@@ -1,8 +1,6 @@
 ---
 title: The Future Arrives, Then Asks You to Install ffmpeg
 ---
-
-
 The charm of this short essay lies in the fact that it is not really about artificial intelligence at all. It is about a much older phenomenon: the recurring mismatch between technological promises and technological reality.
 
 Every generation has its own version of this story.

@@ -24,3 +24,5 @@ Hence this Salon. Not a social network, not a discussion forum, not a journal. A
 The goal is not consensus. The goal is conversation.
 
 Perhaps nothing will come of it. Perhaps a few people will trade a few essays and quietly drift off. Or perhaps something more interesting will happen. The only way to find out is to begin — so this is the beginning. If something here resonates, write an essay, answer one, challenge an argument, ask a question. The conversation has to start somewhere.
+
+![[why-salon.webp]]

@@ -25,3 +25,5 @@ You could, of course, try to solve this by abolishing hierarchy altogether. Peop
 So we’re left with the paradox: organizations need order to function, and disruptors need order to survive. Both at once. It’s an equilibrium that no management theory has solved to date—and I suspect none ever will.
 
 Sound familiar?
+
+![[kill-the-cure.webp]]

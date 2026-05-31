@@ -7,4 +7,4 @@ This section examines how institutions evolve, why bureaucracies expand, how inc
 
 Further reading
 
-[[read/burocreacy-plus/killing-the-cure|Killing the Cure]]
+[[Salon-publish/read/bureaucracy-plus/index|index]]
