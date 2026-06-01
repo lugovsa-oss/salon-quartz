@@ -21,6 +21,8 @@ Institutions are created to serve a mission. Over time, they often begin to serv
   <p class="salon-question-summary">
     Expertise depends not only on knowledge, but also on institutions, reputation, and public trust.
   </p>
+  <a href="/questions/expertise/">Discussion</a>
+  <a href="/read/expertise/">What Makes Expertise Trustworthy?</a>
 </div>
 
 <div class="salon-question-card">
