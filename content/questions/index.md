@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: Current Discussions
 ---
 Below are the conversations currently taking place in the Salon.
@@ -30,4 +31,16 @@ Institutions are created to serve a mission. Over time, they often begin to serv
   <h2>Can science function without hierarchy?</h2>
   <p class="salon-question-summary">
     Scientific communities need authority, but authority can also distort the search for truth.</p>
+<<<<<<< HEAD
+=======
+</div>
+
+<div class="salon-question-card">
+  <div class="salon-question-id">Topic 003</div>
+  <h2>Is teaching becoming obsolete?</h2>
+  <p class="salon-question-summary">
+    AI can teach. We all know it. It does it remarkably well. Does that mean teachers are becoming obsolete?</p>
+    <a href="/questions/teaching-and-AI">Discussion</a>
+  <a href="/questions/teaching-and-AI">Is teaching becoming obsolete?</a>
+>>>>>>> 371eb6c (Sync Obsidian content 2026-09-07 08:39)
 </div>

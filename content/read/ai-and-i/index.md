@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: AI and I
 ---
 I decided to use AI to transcribe a short voice memo in Hebrew. Five minutes of recording. You’d think: 21st century, neural networks, the future has arrived.

@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: Why a Salon, and Why Now
 ---
 I work at a university, which on paper means I belong to a community of scholars — a place where ideas are exchanged, arguments are tested, and intelligent people challenge one another’s assumptions in pursuit of understanding. The reality, at least the one I inhabit, has drifted some distance from that description.

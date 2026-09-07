@@ -1,4 +1,8 @@
 ---
+<<<<<<< HEAD
+=======
+created: 2026-06-01
+>>>>>>> 371eb6c (Sync Obsidian content 2026-09-07 08:39)
 title: On the Endless Cycle of Human Limitations Around the Simplicity and Incomprehensibility of the World
 ---
 There are situations in which the correct solution turns out to be profoundly counterintuitive.

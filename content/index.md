@@ -1,3 +1,8 @@
+---
+created: 2026-06-01
+title: Salon
+---
+
 The Salon is an independent intellectual gathering place. Essays are published together with responses, objections, and continuing conversations.
 
 <div class="salon-question-card">

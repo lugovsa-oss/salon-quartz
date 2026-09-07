@@ -1,3 +1,7 @@
+---
+created: 2026-06-01
+---
+
 Continue the conversation.
 If you have something to add,
 you can contact the host.

@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: About the Host
 ---
 My name is Alex. I am a materials scientist, teacher, and occasional writer living in Israel.
