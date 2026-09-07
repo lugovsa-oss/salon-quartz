@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD
-=======
 created: 2026-06-01
->>>>>>> 371eb6c (Sync Obsidian content 2026-09-07 08:39)
 title: What Makes Expertise Trustworthy?
 ---
 There is an old paradox familiar to anyone who has ever tried to choose a doctor, a lawyer, or a repairman without being a doctor, lawyer, or repairman themselves: to evaluate an expert, you would need to be an expert yourself — but if you were, you wouldn’t need the expert in the first place. Trust in someone else’s knowledge has to be extended blindly, and yet civilization rests on precisely this blind trust. We fly in aircraft designed by people we will never meet, swallow pills synthesized from formulas we cannot read, and eat food whose chemistry we have never tested. The question is not whether we should trust experts — there is no choice — but what exactly makes that trust justified rather than merely convenient.

@@ -8,8 +8,4 @@ This section examines how institutions evolve, why bureaucracies expand, how inc
 
 Further reading
 
-<<<<<<< HEAD
-[[Salon-publish/read/bureaucracy-plus/index|index]]
-=======
 [[read/bureaucracy-plus/index]]
->>>>>>> 371eb6c (Sync Obsidian content 2026-09-07 08:39)
